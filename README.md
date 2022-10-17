@@ -47,7 +47,7 @@
 ---
   
 ## ___Contact :___
-| <a href="mailto:admin@onnoyukihiro.site"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/gmail.svg" width=32 height=32></a> | <a href="https://www.facebook.com/on.no.0"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/facebook.svg" width=32 height=32></a> | <a href="https://tiktok.com/@kulit_kuwaci"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/tiktok.svg" width=32 height=32></a> | <a href="https://www.instagram.com/animasikereenstudio/"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/instagram.svg" width=32 height=32></a> | 
+| <a href="mailto:admin@onnoyukihiro.site"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/gmail.svg" width=32 height=32></a> | <a href="https://www.facebook.com/on.no.0"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/facebook.svg" width=32 height=32></a> | <a href="https://tiktok.com/@kulit_kuwaci"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/tiktok.svg" width=32 height=32></a> | <a href="https://www.instagram.com/animasikerenstudio/"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/instagram.svg" width=32 height=32></a> | 
 |:-:|:-:|:-:|:-:|
 
 ---
