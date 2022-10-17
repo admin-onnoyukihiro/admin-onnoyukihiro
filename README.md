@@ -1,4 +1,3 @@
-# onnoyukihiro
 # # <img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/wave.gif" width=64 height=64 align=center>Hi there, its [admin-onnoyukihiro](https://github.com/admin-onnoyukihiro)!
 
 <img align="right" alt="GIF" height="160px" src="https://i.imgur.com/uhZdH9C.gif" />
