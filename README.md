@@ -48,8 +48,8 @@
 ---
   
 ## ___Contact :___
-| <a href="mailto:admin@onnoyukihiro.site"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/gmail.svg" width=32 height=32></a> | <a href="https://www.facebook.com/on.no.0"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/facebook.svg" width=32 height=32></a> | <a href="https://tiktok.dog/@kulit_kuwaci"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/tiktok.svg" width=32 height=32></a> | <a href="https://www.instagram.com/animasikereenstudio/"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/instagram.svg" width=32 height=32></a> | <a href="https://twitter.com/apps987"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/twitter.svg" width=32 height=32></a> |
-|:-:|:-:|:-:|:-:|:-:|
+| <a href="mailto:admin@onnoyukihiro.site"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/gmail.svg" width=32 height=32></a> | <a href="https://www.facebook.com/on.no.0"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/facebook.svg" width=32 height=32></a> | <a href="https://tiktok.dog/@kulit_kuwaci"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/tiktok.svg" width=32 height=32></a> | <a href="https://www.instagram.com/animasikereenstudio/"><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/blob/main/assets/instagram.svg" width=32 height=32></a> | 
+|:-:|:-:|:-:|:-:|
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadmin-onnoyukihiro%2Fadmin-onnoyukihiro&count_bg=%230182FF&title_bg=%23000000&icon_color=%230081FF&title=Hits&edge_flat=false)](https://github.com/admin-onnoyukihiro)
