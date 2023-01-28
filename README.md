@@ -9,7 +9,7 @@
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2012, the founder of McAfee Antivirus, John McAfee was asked if he personally uses McAfee anti-virus, he replied by saying “I take it off,” and that “It’s too annoying.”❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
