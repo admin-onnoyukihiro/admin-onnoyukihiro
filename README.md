@@ -9,7 +9,7 @@
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
