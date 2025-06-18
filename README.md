@@ -9,7 +9,7 @@
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/book.png" width=17 height=17 align=center>&nbsp;Studying :</b> Bachelors in Computer Science
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/nows.png" width=17 height=17 align=center>&nbsp;Doing Right Now :</b> Breathing.....Sorry!
 * <b><img src="https://github.com/admin-onnoyukihiro/admin-onnoyukihiro/raw/main/assets/facts.png" width=17 height=17 align=center>&nbsp;Fact :</b> <!--STARTS_HERE_QUOTE_README-->
-<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
+<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
